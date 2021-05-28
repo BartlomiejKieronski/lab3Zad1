@@ -1,0 +1,44 @@
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\bin\Debug\net5.0-windows\lab3Zad1.exe
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\bin\Debug\net5.0-windows\lab3Zad1.deps.json
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\bin\Debug\net5.0-windows\lab3Zad1.runtimeconfig.json
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\bin\Debug\net5.0-windows\lab3Zad1.runtimeconfig.dev.json
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\bin\Debug\net5.0-windows\lab3Zad1.dll
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\bin\Debug\net5.0-windows\ref\lab3Zad1.dll
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\bin\Debug\net5.0-windows\lab3Zad1.pdb
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.csprojAssemblyReference.cache
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1_MarkupCompile.cache
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1_MarkupCompile.lref
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.g.resources
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.AssemblyInfoInputs.cache
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.AssemblyInfo.cs
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.dll
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\ref\lab3Zad1.dll
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.pdb
+C:\Users\Bartek\Desktop\lab3\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.genruntimeconfig.cache
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\bin\Debug\net5.0-windows\lab3Zad1.exe
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\bin\Debug\net5.0-windows\lab3Zad1.deps.json
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\bin\Debug\net5.0-windows\lab3Zad1.runtimeconfig.json
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\bin\Debug\net5.0-windows\lab3Zad1.runtimeconfig.dev.json
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\bin\Debug\net5.0-windows\lab3Zad1.dll
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\bin\Debug\net5.0-windows\ref\lab3Zad1.dll
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\bin\Debug\net5.0-windows\lab3Zad1.pdb
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.csprojAssemblyReference.cache
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1_MarkupCompile.cache
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1_MarkupCompile.lref
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.g.resources
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.AssemblyInfoInputs.cache
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.AssemblyInfo.cs
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.dll
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\ref\lab3Zad1.dll
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.pdb
+C:\Users\Bartek\Desktop\programowanie lab3\lab3Zad1\lab3Zad1\lab3Zad1\obj\Debug\net5.0-windows\lab3Zad1.genruntimeconfig.cache
